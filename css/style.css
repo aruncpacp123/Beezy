@@ -477,3 +477,9 @@
     padding-right: 0;
     border-right: none;
 }
+.imgLogo{
+    margin-left: 20px;
+    width: 3rem;
+    transform: scale(5);
+    filter: brightness(1)
+}
