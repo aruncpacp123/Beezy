@@ -511,3 +511,14 @@
 .text-primary{
     color: #01AB6C !important;
 }
+
+.icon{
+    width: 2rem;
+    height: 2rem;
+}
+
+.icon2{
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 2rem;
+}
